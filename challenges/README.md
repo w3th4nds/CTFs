@@ -1,1 +1,1 @@
-# Challenges
+Categories
