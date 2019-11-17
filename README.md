@@ -6,4 +6,4 @@ Some of them are protected with the flag as password because they are still acti
 
 ### [pwnable.xyz](https://github.com/w3th4nds/CTFs/tree/master/pwnable.xyz)
 
-[!ctf][(./images/ctf.jpg)](https://github.com/w3th4nds/CTFs)
+[![ctf](./images/ctf.jpg)](https://github.com/w3th4nds/CTFs)
