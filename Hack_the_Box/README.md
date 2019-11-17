@@ -1,4 +1,4 @@
-### In this folder there are write ups and exploits for machines and challenges of the HTB platform.
+###  Hack the box exploits and write ups for machines and challenges 
 
 [![HTB](../images/htb.jpg)](https://www.hackthebox.eu/home)
 
