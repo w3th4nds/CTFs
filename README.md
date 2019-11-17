@@ -9,5 +9,3 @@
 ### [pwnable.xyz](https://github.com/w3th4nds/CTFs/tree/master/pwnable.xyz)
 
 ### [NewbieCTF](https://github.com/w3th4nds/CTFs/tree/master/NewbieCTF)
-
-[![ctf](./images/ctf.jpg)](https://github.com/w3th4nds/CTFs)
